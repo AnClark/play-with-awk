@@ -1,0 +1,1 @@
+drwxrwx--x u0_a17 u0_a17 2016-11-13 11:04 com.android.browser

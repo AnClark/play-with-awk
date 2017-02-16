@@ -1,0 +1,4 @@
+drwxr-x--x u0_a37 u0_a37 2017-02-16 16:11 com.fenbi.android.kyzz
+drwxr-x--x u0_a35 u0_a35 2017-02-16 16:11 com.fenbi.android.sikao
+drwxr-x--x u0_a36 u0_a36 2017-02-16 16:11 com.hjwordgames
+drwxr-x--x u0_a36 u0_a36 2017-02-16 16:11 com.hjwordgames
